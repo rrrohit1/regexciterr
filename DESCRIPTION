@@ -1,15 +1,15 @@
 Package: regexciterr
-Title: What the Package Does (One Line, Title Case)
+Title: Splits the Text into Words
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Rohit",
+           family = "Rawat",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+           email = "rrrohit28@gmail.com")
+Description: Convenience functions to make some common tasks with string
+    manipulation and regular expressions a bit easier. Here we are splitting
+    text into words.
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
